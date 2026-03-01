@@ -38,7 +38,6 @@ const HotCollections = () => {
         },
       },
     });
-    console.log(data);
   }
 
   useEffect(() => {
