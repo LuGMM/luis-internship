@@ -4,7 +4,7 @@ import ExploreItems from "../components/explore/ExploreItems";
 
 const Explore = () => {
   useEffect(() => {
-    // Test From main branch DO NOT DELETE THIS COMMENT
+    // Test merge conflict
     window.scrollTo(0, 0);
   }, []);
 
