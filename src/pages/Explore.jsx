@@ -5,6 +5,7 @@ import ExploreItems from "../components/explore/ExploreItems";
 const Explore = () => {
   useEffect(() => {
     // Test merge conflict
+    // Test From main DO NOT DELETE
     window.scrollTo(0, 0);
   }, []);
 
